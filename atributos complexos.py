@@ -18,6 +18,7 @@ for filhos in pai1.filhos:
     print(filhos)
 pai1.sobrenome = 'Alves'
 ##atributo dinamico
+##atributo complexo é como a lista podendo ser atributo
 
 print (pai1.sobrenome)
 
